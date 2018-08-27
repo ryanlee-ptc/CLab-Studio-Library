@@ -1,4 +1,4 @@
-bootstrap-datepicker
+Work Instruction Template
 ====================
 
 Bootstrap-datepicker provides a flexible datepicker widget in the Bootstrap style.
