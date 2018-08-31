@@ -1,0 +1,66 @@
+
+************
+Introduction
+************
+
+Setting Up Studio
+==================
+
+Downloading Studio
+------------------
+Visit `Vuforia Studio`_ and login using the Username: ``iotworkshop`` and Password: ``@IOTAcademic18``. 
+
+
+.. _Vuforia Studio: http://studio.vuforia.com/
+
+Development Tools
+------------------
+
+* `GitKraken`_: Git GUI for managing developer workflow)
+* `Sublime Text`_: Text editor for code
+
+.. _GitKraken: https://gitkraken.com/
+.. _Sublime Text: https://www.sublimetext.com/
+
+
+
+GitHub Integration 
+------------------
+GitHub is our central code repository that contains all Convergence Lab Studio projects. 
+
+Visit our team repo at `Academic Team GitHub`_. 
+
+
+.. _Academic Team GitHub: http://studio.vuforia.com/
+
+.. Attention:: To make a project private, please contact Mark Cheli (mcheli@ptc.com) to receive clearance. 
+
+
+Setting Up Studio CLI
+=====================
+
+To make use of the Studio CLI tool, run commands from your Vuforia Studio projects folder ``Documents/VuforiaStudio/Projects/``
+
+See |location_link| for further documentation.
+
+.. |location_link| raw:: html
+
+   <a href="https://github.com/PTC-Academic/CLab-Dev-CLI" target="_blank">Studio CLI Repo </a>
+
+
+Install the Studio CLI package:
+
+.. code:: bash
+
+    gulp
+
+Initializing Projects
+---------------------
+
+Initializing a new Studio project::
+
+    $ vufo init
+
+
+
+
